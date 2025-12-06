@@ -28,7 +28,7 @@ while True:
 
     elif opcao == 4:
 
-        print("Saindo...")
+        print("Saindo..")
         break
 
     else:
